@@ -13,6 +13,7 @@ def calcular(numeros):
 
 print(calcular([10,20,30]))
 
+#chaves
 def salvar_carro(marca, modelo, ano, placa):
     print(f"Carro inserido com sucesso! {marca}/{modelo}/{ano}/{placa}")
 
